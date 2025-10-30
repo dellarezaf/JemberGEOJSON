@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "KEC": "Kencong", "ID": "id3509010" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [113.433, -8.183],
+            [113.450, -8.183],
+            [113.450, -8.200],
+            [113.433, -8.200],
+            [113.433, -8.183]
+          ]
+        ]
+      }
+    }
+  ]
+}
